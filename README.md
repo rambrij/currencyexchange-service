@@ -24,7 +24,7 @@ This application end point is secured using jwt role based authentication
 Open CMD and go to the root of the project/Open Terminal and do:
 
 Run below command to download dependencies and generate jar file  
-`mvnw.cmd clean install`
+`mvn clean install`
 
 
 Create user request
